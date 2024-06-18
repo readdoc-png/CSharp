@@ -1,2 +1,2 @@
 # C#
-My repositry learning C#
+My repository learning C#

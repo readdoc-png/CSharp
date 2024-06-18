@@ -1,2 +1,2 @@
 # C#
-My repositry learning C# for Game Development
+My repositry learning C#
